@@ -1,7 +1,7 @@
 
 # require-so-slow
 
-* Wondering why your applications is slow to start?
+* Wondering why your application is slow to start?
 * `require` seems to take an eternity?
 * Wonder no more!
 
